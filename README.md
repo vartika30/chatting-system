@@ -1,2 +1,2 @@
 # chatting-system
-User chatting syste, using laravel 7
+User chatting system, using laravel 7
